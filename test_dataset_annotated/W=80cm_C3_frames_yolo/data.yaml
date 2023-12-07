@@ -1,0 +1,6 @@
+names:
+- head
+nc: 1
+test: /p/project/hai_dbma1436/all_data/test_dataset_annotated/W=80cm_C3_frames_yolo/images
+train: /p/project/hai_dbma1436/all_data/test_dataset_annotated/W=80cm_C3_frames_yolo/images
+val: /p/project/hai_dbma1436/all_data/test_dataset_annotated/W=80cm_C3_frames_yolo/images

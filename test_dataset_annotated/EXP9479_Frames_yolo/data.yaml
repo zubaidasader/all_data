@@ -1,0 +1,6 @@
+names:
+- head
+nc: 1
+test: /p/project/hai_dbma1436/all_data/test_dataset_annotated/EXP9479_Frames_yolo/images
+train: /p/project/hai_dbma1436/all_data/test_dataset_annotated/EXP9479_Frames_yolo/images
+val: /p/project/hai_dbma1436/all_data/test_dataset_annotated/EXP9479_Frames_yolo/images

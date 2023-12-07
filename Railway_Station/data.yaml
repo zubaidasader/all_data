@@ -1,0 +1,6 @@
+names:
+- head
+nc: 1
+test: /p/project/hai_dbma1436/all_data/Railway_Station/test/images
+train: /p/project/hai_dbma1436/all_data/Railway_Station/train/images
+val: /p/project/hai_dbma1436/all_data/Railway_Station/val/images

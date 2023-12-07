@@ -1,0 +1,6 @@
+names:
+- head
+nc: 1
+test: /p/project/hai_dbma1436/all_data/combined_data/test/images
+train: /p/project/hai_dbma1436/all_data/combined_data/train/images
+val: /p/project/hai_dbma1436/all_data/combined_data/val/images

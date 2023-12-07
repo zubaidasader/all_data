@@ -1,0 +1,6 @@
+names:
+- head
+nc: 1
+test: /p/project/hai_dbma1436/all_data/Event_Entrances/test/images
+train: /p/project/hai_dbma1436/all_data/Event_Entrances/train/images
+val: /p/project/hai_dbma1436/all_data/Event_Entrances/val/images
